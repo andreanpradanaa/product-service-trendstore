@@ -1,0 +1,6 @@
+database:
+  host: localhost
+  username: root
+  password: secret
+  dbname: trendstore
+  port: 5432
